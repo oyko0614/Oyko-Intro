@@ -1,0 +1,107 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  color: #4B3869;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  font-size: 5.625rem;
+  /*90px tei tentsuu 16px n 100% gej tootsvol 90px ni 5.625rem bolno;*/
+  font-family: 'Sacramento', cursive;
+  color: #4B3869;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #00A19D;
+}
+
+h3 {
+  color: #00A19D;
+}
+
+hr{
+  border-style: dotted none none;
+  color: grey;
+  border-with: 10px;
+  height: 2px;
+  width: 5%;
+}
+
+.top-container {
+  background-color: #D4ECDD; /* #95DAC1;*/
+  position: relative;
+  padding-top: 200px;
+}
+
+
+
+.middle-container {
+  background-color: none;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain1 {
+  position: relative;
+  left: 500px;
+}
+
+.mountain2 {
+  position: relative;
+  left: 300px;
+}
+
+.profile-pic {
+  max-width: 20%;
+  float: left;
+margin: auto 100px auto 250px;
+}
+
+.analyst {
+  max-width: 25%;
+  float: left;
+  margin: auto 20px auto auto;
+}
+
+.communicator {
+  float: right;
+  max-width: 25%;
+  margin:auto auto auto 20px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #63B4B8;
+}
+
+.hello {
+  width: 50%;
+  margin: 50px auto auto 30px;
+}
+.introduction {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
